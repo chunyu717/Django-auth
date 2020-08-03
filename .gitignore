@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+authenticate/__pycache__/*.pyc
+Lib/*
+mysite/__pycache__/*.pyc
