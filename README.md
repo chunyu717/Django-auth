@@ -1,4 +1,4 @@
-# 透過以下步驟 可以建立 Django 的 Restful api 服務， 專案說明 : 
+# 透過以下步驟可以建立 Django 的 Restful Auth 服務， 專案說明 : 
 參考 : https://www.udemy.com/build-a-user-authentication-web-app-with-python-and-django/learn/v4/overview
 
 此專案有包含 template html 實作 Loing In Page 網頁登入的操作。
