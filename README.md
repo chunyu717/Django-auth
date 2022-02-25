@@ -4,7 +4,7 @@
 此專案有包含 template html 實作 Loing In Page 網頁登入的操作。
 
 程式內 authenticate, login, logout, update_session_auth_hash 使用到的都是 Django 內建的涵式.  Django 強大的框架提供了很多實作的方法. 
-
+此專案主要包含以下紅框的部分
 ![Screenshot](./readme_pic/django.jpg)
 # 執行專案專案步驟 : 
 ### 進入 pythn virtualenv
