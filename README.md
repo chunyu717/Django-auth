@@ -17,6 +17,7 @@
 ### 安裝 pythone 3.7
     $ sudo pip install pipenv
 ### 虛擬環境內安裝 django
+    $ pipenv shell
     $ pip install django
 ### 建立專案 "my_site"
     $ mkdir my_site
